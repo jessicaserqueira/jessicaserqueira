@@ -14,7 +14,7 @@ Sou formada em Gestão Financeira em busca por um espaço na área de TI.
 
 
 ###
-<div>
+<div align="center">
 <a href="https://github.com/jessicaserqueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaserqueira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaserqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
