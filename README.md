@@ -20,9 +20,6 @@ Sou formada em Gestão Financeira em busca por um espaço na área de TI.
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jessicaserqueira&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicaserqueira&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
